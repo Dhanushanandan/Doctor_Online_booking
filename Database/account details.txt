@@ -1,0 +1,11 @@
+USER NAME			PASSWORD
+-----------			----------
+admin				admin
+user				user
+doctor				doctor
+
+
+group members
+KADSE231F-089 Ravindu Aluvihare 
+KADSE231F-023 Yasith Ruwantha 
+KADSE231F-020 A.M.Dhanushanandan 
